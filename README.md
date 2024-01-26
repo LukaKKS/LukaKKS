@@ -3,7 +3,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kk.kiseong/)
 
-### Glad to see you here! &nbsp; 
+### Welcome LukaKKS Github! &nbsp; 
 
 안녕하세요 저는 세계적인 AI 연구원이 되고자 노력하는 중이에요. 🚀
 
@@ -14,17 +14,17 @@
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; 스타트업 나그네스를 창업하여 CTO로 근무했습니다.
-- 🚀 &nbsp; 1년간 쇼핑몰 크롤링 프리랜서로 활동하였습니다.
-- 💬 &nbsp; 가장 좋아하는 말은 "Everyone thinks of changing the world, but no one thinks of changing himself".-Lev Tolstoy
-- 📫 &nbsp; Reach me out: kiseong1996@gmail.com.
-
+- 🛠 &nbsp; I started a start-up, Nagnes, and worked as a CTO.
+- 🚀 &nbsp; I worked as a mall-related crawling freelancer for a year.
+- 💬 &nbsp; My favorite phrase "Everyone thinks of changing the world, but no one thinks of changing himself".-Lev Tolstoy
+- 📫 How to reach me **rlarltjd1996@gmail.com**
+- ⚡ My youtube **https://www.youtube.com/@user-pr9mr7kn6g**
 
 
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 💻 &nbsp; I'm interested in computer vision.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
