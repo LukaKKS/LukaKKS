@@ -19,6 +19,7 @@ Hello, I want to become a global AI researcher. 🚀
 - 💬 &nbsp; My favorite phrase "Everyone thinks of changing the world, but no one thinks of changing himself".-Lev Tolstoy
 - 📫 How to reach me **rlarltjd1996@gmail.com**
 - ⚡ My youtube **https://www.youtube.com/@user-pr9mr7kn6g**
+-  My App : **https://play.google.com/store/apps/details?id=com.nagnes.gocashing**
 
 
 
