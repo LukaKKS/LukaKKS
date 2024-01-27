@@ -5,7 +5,7 @@
 
 ### Welcome LukaKKS Github! &nbsp; 
 
-안녕하세요 저는 세계적인 AI 연구원이 되고자 노력하는 중이에요. 🚀
+Hello, I want to become a global AI researcher. 🚀
 
 
 
@@ -24,21 +24,26 @@
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I'm interested in computer vision.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- 💻 &nbsp; I'm interested in Computer vision and GAN.
+- 📰 &nbsp; I will definitely visit "Silicon Valley" someday.
+- 🍕 &nbsp; I like basketball and watch NBA a lot. My favorite player is Luca Doncic.
 
+### Goal :
+- I really want to do AI research in Silicon Valley someday.
 ### Languages And Stack:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 ### Development Tools:
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google colab&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
+
+### Framework:
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 ### Projects and Dev Stuffs:
 
 <details>
