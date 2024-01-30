@@ -26,9 +26,9 @@ Hello, I want to become a global AI researcher. 🚀
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I'm interested in Computer vision and GAN,XAI
-- 📰 &nbsp; I will definitely visit "Silicon Valley" someday.
-- 🍕 &nbsp; I like basketball and watch NBA a lot. My favorite player is Luca Doncic.
-
+- 📰 &nbsp; I like basketball and watch NBA a lot. My favorite player is Luca Doncic.
+- 🛠 &nbsp; I like to read mystery novels. Especially the works of Arthur Conandoil and Maurice LeBlanc
+  
 ### Goal :
 - I really want to do AI research in Silicon Valley someday.
 ### Languages And Stack:
